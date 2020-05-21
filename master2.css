@@ -1,0 +1,49 @@
+a
+{
+	color:red;
+}
+a:hover
+{
+	color:#800000;
+}
+body
+{
+	font-family:Roboto,comic-sans;
+	font-style:oblique;
+	color:white;
+	background-image: url("background2.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-color:beige;
+	text-align:center;
+}
+p
+{
+	font-family:arial;
+	color: white;
+	font-style:italic;
+	text-align:center;
+	font-size:23px;
+	line-height:12px;
+}
+h1
+{
+	color:white;
+	font-family:arial;
+	font-style:normal;
+	text-shadow: 2px 2px #800000;
+	margin-top:2rem;
+	font-size:40px;
+}
+li
+{
+	color:red;
+	list-style-position: outside;
+}
+footer
+{
+	margin-top:22rem;
+	color:white
+	font-style:normal;
+	font-size: 15px;
+}
